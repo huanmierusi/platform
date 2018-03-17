@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Sat Mar 10 11:51:43 CST 2018
+org.eclipse.jst.j2ee.server\:platform-api=WEB-INF/lib/platform-api-1.0.0.jar
+org.eclipse.jst.j2ee.server\:platform-common=WEB-INF/lib/platform-common-1.0.0.jar
+org.eclipse.jst.j2ee.server\:platform-shiro=WEB-INF/lib/platform-shiro-1.0.0.jar
+org.eclipse.jst.j2ee.server\:platform-schedule=WEB-INF/lib/platform-schedule-1.0.0.jar
+org.eclipse.jst.j2ee.server\:platform-gen=WEB-INF/lib/platform-gen-1.0.0.jar

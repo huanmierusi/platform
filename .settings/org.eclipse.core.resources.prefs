@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//platform-admin/src/main/resources/dev/log4j.properties=UTF-8
+encoding//platform-admin/src/main/resources/dev/platform.properties=UTF-8
+encoding//platform-admin/src/main/resources/prod/platform.properties=UTF-8
+encoding//platform-admin/src/main/webapp/WEB-INF/page/sys/config.html=UTF-8
+encoding//platform-admin/src/main/webapp/WEB-INF/page/sys/macro.html=UTF-8
+encoding//platform-admin/src/main/webapp/WEB-INF/page/sys/main.html=UTF-8
+encoding//platform-framework/target/platform-framework/WEB-INF/classes/platform.properties=UTF-8
+encoding/<project>=UTF-8
+encoding/platform-framework=UTF-8
