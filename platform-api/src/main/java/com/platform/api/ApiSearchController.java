@@ -82,6 +82,9 @@ public class ApiSearchController extends ApiBaseAction {
 
     /**
      * 　　helper
+     * 搜索商品
+     * @param loginUser 登录用户信息
+     * @param keyword 关键字
      */
     @IgnoreAuth
     @RequestMapping("helper")
